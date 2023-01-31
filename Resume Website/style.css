@@ -96,5 +96,8 @@ body
 {
     font-size: 35px;
     color: #EBEBF0;
-    background-color: #EBEBF0;
+}
+.resume 
+{
+    padding-top: 100px;
 }
