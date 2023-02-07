@@ -100,9 +100,11 @@ body
     font-size: 35px;
     color: #EBEBF0;
 }
-
 /*----------Resume----------*/
-.resume 
+
+
+/*----------Projects----------*/
+.projects
 {
     padding-top: 70px;
     padding-bottom: 30px;
@@ -110,7 +112,7 @@ body
     padding-right: 300px;
     background: #E6E6EB
 }
-.resume h3
+.projects h3
 {
     margin-bottom: 50px;
 }
@@ -135,7 +137,6 @@ body
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
-    background: #F5F5FA;
 }
 .timeline li h4
 {
