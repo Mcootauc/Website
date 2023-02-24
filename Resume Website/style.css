@@ -74,9 +74,14 @@ body
 {
     border: 5px solid #101014;
 }
+.about .container 
+{
+    overflow: hidden;
+}
 .profile-img
 {
-    height: 400px;
+    float: left;
+    height: 550px;
 }
 .nav-bar
 {
@@ -103,17 +108,13 @@ body
 /*----------Resume----------*/
 .resume 
 {
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 .resume h1 
 {
     margin-bottom: 50px;
 }
-.resume li 
-{
-    padding-left: 0px;
-}
-
 /*----------Projects----------*/
 .projects
 {
